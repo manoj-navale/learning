@@ -1,1 +1,2 @@
 test file for merge & rebase
+merge on branch4 & rebase on branch5
